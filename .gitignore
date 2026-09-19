@@ -12,3 +12,6 @@ wheels/
 
 .env
 .history
+
+# Uygulama log dosyaları Git'e gönderilmez.
+logs/
